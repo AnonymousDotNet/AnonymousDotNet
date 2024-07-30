@@ -18,9 +18,7 @@ Here are some ideas to get you started:
   
   <samp>
     :wave: Hi there
-    <br>My current work focuses on enabling all of y'all to
-      <br><em>receive recognition</em> for the amazing things that
-    <br>you do in your software communities :sparkles:<br><br>
+    <br>Thinking will not overcome fear but action will. :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
