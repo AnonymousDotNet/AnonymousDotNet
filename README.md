@@ -28,3 +28,8 @@ Here are some ideas to get you started:
   I want to make a little game this year.<br>I'm currently working on a small gameboy game with <a href="https://github.com/tfgrimes">@tfgrimes</a> using <a href="https://github.com/chrismaltby/gb-studio">GBStudio.dev</a>, which is an awesome game creator tool that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
 </details>
 -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/liangtengyu/count.svg" />
+</p>
