@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
   
   <samp>
-    :wave: Hi
+    <!-- :wave: Hi -->
     <br>Thinking will not overcome fear but action will. :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
