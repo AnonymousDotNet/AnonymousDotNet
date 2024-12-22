@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   I want to make a little game this year.<br>I'm currently working on a small gameboy game with <a href="https://github.com/tfgrimes">@tfgrimes</a> using <a href="https://github.com/chrismaltby/gb-studio">GBStudio.dev</a>, which is an awesome game creator tool that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
 </details>
 -->
+
 # Hello, I'm AnonymousDotNet! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET technologies. I love creating robust and efficient applications and exploring new advancements in the .NET ecosystem. Here's a bit more about me:
