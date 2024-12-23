@@ -35,16 +35,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** C#, JavaScript, TypeScript
-- **Frameworks:** ASP.NET Core, Entity Framework, Blazor, React
+- **Languages:** C#, JAVA, JavaScript, TypeScript
+- **Frameworks:** ASP.NET Core, Entity Framework, ABP, Vue, React
 - **Tools:** Visual Studio, Visual Studio Code, Git, Docker
-- **Databases:** SQL Server, PostgreSQL, MongoDB
+- **Databases:** SQL Server, MySQL, Oreacl, PostgreSQL, MongoDB
 
 ## 🌱 Currently Learning
 
 - Azure DevOps and cloud services
 - Microservices architecture
 - Advanced front-end frameworks (e.g., Angular, Vue.js)
+- Python, C, GO
 
 ## 📈 GitHub Stats
 
@@ -59,15 +60,19 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [Post Title 1](https://yourblog.com/post1)
 - [Post Title 2](https://yourblog.com/post2)
 - [Post Title 3](https://yourblog.com/post3)
+-->
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Achievements
 
+<!--
 - Microsoft Certified: Azure Developer Associate
 - Contributed to open-source projects like [ProjectName](https://github.com/ProjectName)
+-->
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech!
 
