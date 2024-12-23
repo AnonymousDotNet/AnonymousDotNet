@@ -66,6 +66,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 - [Post Title 2](https://yourblog.com/post2)
 - [Post Title 3](https://yourblog.com/post3)
 -->
+- [Blog](http://anonymousdotnet.cn)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Achievements
