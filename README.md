@@ -54,8 +54,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 ## 🔗 Connect with Me
 
 <!-- - [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile) -->
+- [Twitter](https://twitter.com/your-profile)
 - [Blog](https://yourblog.com)
+-->
 
 ## 📝 Latest Blog Posts
 
