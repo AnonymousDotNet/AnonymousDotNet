@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 
 - **Languages:** C#, JAVA, JavaScript, TypeScript
 - **Frameworks:** ASP.NET Core, Entity Framework, ABP, Vue
-- **Tools:** Visual Studio, Visual Studio Code, Git, Docker
+- **Tools:** Visual Studio, Visual Studio Code, Git, Docker, IDEA
 - **Databases:** SQL Server, MySQL, Oreacl, PostgreSQL, MongoDB
 
 ## 🌱 Currently Learning
