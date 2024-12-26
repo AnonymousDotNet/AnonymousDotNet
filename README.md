@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 - Microservices architecture
 - Advanced front-end frameworks (e.g., Angular, Vue.js, React)
 - Python, C, GO
-- WinForms
+- WinForms, DevExpress
 
 ## 📈 GitHub Stats
 
