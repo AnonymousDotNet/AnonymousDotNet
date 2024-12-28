@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 - **Languages:** C#, JAVA, JavaScript, TypeScript
 - **Frameworks:** ASP.NET Core, Entity Framework, ABP Vnext, Vue
 - **Tools:** Visual Studio, Visual Studio Code, Git, Docker, IDEA
-- **Databases:** SQL Server, MySQL, Oreacl, PostgreSQL, MongoDB
+- **Databases:** SQL Server, MySQL, Oreacl, PostgreSQL
 
 ## 🌱 Currently Learning
 
@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 - Advanced front-end frameworks (e.g., Angular, Vue.js, React)
 - Python, C, GO
 - WinForms, DevExpress
+- MongoDB, SQLite
 
 ## 📈 GitHub Stats
 
