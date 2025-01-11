@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 - Advanced front-end frameworks (e.g., <!-- Angular, --> Vue.js, React)
 - Python, C, GO
 - WinForms, DevExpress
-- MongoDB, SQLite
+- MongoDB, SQLite, PgSQL
 
 ## 📈 GitHub Stats
 
