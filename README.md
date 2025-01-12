@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 - Python, C, GO
 - WinForms, DevExpress
 - MongoDB, SQLite, PgSQL
+- CI/CD
 
 ## 📈 GitHub Stats
 
