@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 ![AnonymousDotNet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymousDotNet&show_icons=true&theme=radical)
 -->
 
-| <a href="https://github.com/AnonymousDotNet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnonymousDotNet&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="github stats" /></a> | <a href="https://github.com/AnonymousDotNet"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousDotNet&layout=compact&langs_count=6&exclude_repo=undergrad&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/AnonymousDotNet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnonymousDotNet&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="github stats" /></a> | <a href="https://github.com/AnonymousDotNet"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousDotNet&layout=compact&langs_count=6&exclude_repo=undergrad&theme=buefy&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
 
 ## 🔗 Connect with Me
