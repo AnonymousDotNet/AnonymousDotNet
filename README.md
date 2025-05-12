@@ -55,6 +55,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 -->
 - [Blog](http://anonymousdotnet.cn)
 
+## 💻 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,python,cpp,c,cs,nodejs,vue,vite,electron,tauri,git,github,vscode,visualstudio,ubuntu,Linux,apple)](https://skillicons.dev)
+
+</td></tr>
+
+<!-- hr -->
+
+<tr><td>
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Achievements
