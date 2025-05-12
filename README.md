@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,python,cpp,c,cs,nodejs,vue,vite,electron,tauri,git,github,vscode,visualstudio,ubuntu,linux,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,python,cpp,c,cs,nodejs,vue,vite,electron,tauri,git,github,vscode,visualstudio,ubuntu,linux,apple,jquery)](https://skillicons.dev)
 
 </td></tr>
 
