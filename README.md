@@ -30,10 +30,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 | <a href="https://github.com/AnonymousDotNet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnonymousDotNet&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="github stats" /></a> | <a href="https://github.com/AnonymousDotNet"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousDotNet&layout=compact&langs_count=6&exclude_repo=undergrad&theme=buefy&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
 -->
-
+<div align="center">
 | <a href="https://github.com/AnonymousDotNet"><img align="center" src="https://github-readme-stats-alpha-nine-10.vercel.app/api?username=AnonymousDotNet&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="github stats" /></a> | <a href="https://github.com/AnonymousDotNet"><img align="center" src="https://github-readme-stats-alpha-nine-10.vercel.app/api/top-langs/?username=AnonymousDotNet&layout=compact&langs_count=6&exclude_repo=undergrad&theme=buefy&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+</div>
 
 ## 🔗 Connect with Me
 
