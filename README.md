@@ -40,8 +40,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 <!-- - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Twitter](https://twitter.com/your-profile)
 - [Blog](https://yourblog.com)
--->
 - [X](https://x.com/lld477403216357)
+-->
+
+- [<img src="https://img.shields.io/twitter/follow/ycjcl?label=Twitter&style=social">](https://x.com/lld477403216357)
 
 ## 📝 Latest Blog Posts
 
