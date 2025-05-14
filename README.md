@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 - WinForms, DevExpress, WPF
 - MongoDB, SQLite, PgSQL
 - CI/CD
+- PLC
 
 ## 📈 GitHub Stats
 
