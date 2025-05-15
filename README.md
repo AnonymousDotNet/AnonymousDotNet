@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 - Azure DevOps and cloud services
 - Microservices architecture
 - Advanced front-end frameworks (e.g., <!-- Angular, --> Vue.js, React, Node.js, Next.js)
-- Python, C, GO, java
+- Python, C, C++, GO, java
 - WinForms, DevExpress, WPF
 - MongoDB, SQLite, PgSQL
 - CI/CD
