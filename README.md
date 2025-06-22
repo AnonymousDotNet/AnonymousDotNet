@@ -1,12 +1,12 @@
 # Hello, I'm AnonymousDotNet! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET technologies. I love creating robust and efficient applications and exploring new advancements in the .NET ecosystem. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate developer focused on .NET technologies, dedicated to building robust and efficient applications and always exploring the latest in the .NET ecosystem. Here’s a bit more about me:
 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** C#, JAVA, JavaScript, TypeScript, C, Python, Go
 - **Frameworks:** ASP.NET Core, Entity Framework, ABP Vnext, Vue
-- **Tools:** Visual Studio, Visual Studio Code, Git,  Mongo Compass, IDEA <!-- Docker, -->
+- **Tools:** Visual Studio, Visual Studio Code, Git, Mongo Compass, IDEA <!-- Docker, -->
 - **Databases:** SQL Server, MySQL, Oreacl, PostgreSQL, sqlite
 
 ## 🌱 Currently Learning
@@ -14,13 +14,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 - Azure DevOps and cloud services
 - Microservices architecture
 - Advanced front-end frameworks (e.g., <!-- Angular, --> Vue.js, React, Node.js, Next.js)
-- Python, C, C++, GO, java
+- Python, C, C++, GO, Java
 - WinForms, DevExpress, WPF
 - MongoDB, SQLite, PgSQL
 - CI/CD
 
 ## 📈 GitHub Stats
-
 
 <!--
 ![AnonymousDotNet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymousDotNet&show_icons=true&theme=radical)
@@ -53,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on .NET te
 - [Post Title 3](https://yourblog.com/post3)
 -->
 - [Blog](http://anonymousdotnet.cn)
-
+<!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Achievements
 
@@ -82,7 +81,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  
   <samp>
     <!-- :wave: Hi -->
     <br>:wave: Thinking will not overcome fear but action will. :sparkles:<br><br>
@@ -105,7 +103,3 @@ Here are some ideas to get you started:
 <!-- hr -->
 
 <tr><td>
-
-<!-- BLOG-POST-LIST:END -->
-
-
