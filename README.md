@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on .NET technol
 ## 🛠️ Technologies & Tools
 
 - **Languages:** C#, JAVA, JavaScript, TypeScript, C, Python, Go
-- **Frameworks:** ASP.NET Core, Entity Framework, ABP Vnext, Vue
+- **Frameworks:** ASP.NET Core, Entity Framework, ABP Vnext, Vue, uni-app
 - **Tools:** Visual Studio, Visual Studio Code, Git, Mongo Compass, IDEA <!-- Docker, -->
 - **Databases:** SQL Server, MySQL, Oreacl, PostgreSQL, sqlite
 
